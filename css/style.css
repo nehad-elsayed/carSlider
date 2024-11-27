@@ -91,3 +91,10 @@ section {
 }
 
 
+@media (min-width:575.98){
+
+    .container .item img{
+        height: unset;
+    }
+
+}
